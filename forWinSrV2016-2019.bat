@@ -1,4 +1,6 @@
 @echo off
+REM Cleaning up and optimizing the system
+REM (C) 2023 @thangminh999. All rights reserved.
 echo Cleaning up and optimizing the system...
 echo.
 
