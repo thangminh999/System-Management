@@ -55,3 +55,8 @@
   </ul>
 </div>
 
+<div>
+  <p>10. Check for updates.</p>
+  <ul><li>![image](https://github.com/thangminh999/System-Management/assets/79648170/4425992c-574a-4984-8150-f16300108d03)</li></ul>
+</div>
+
