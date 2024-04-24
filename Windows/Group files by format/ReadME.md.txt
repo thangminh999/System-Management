@@ -1,0 +1,1 @@
+First put the script file in the folder >> Run as Administrator
